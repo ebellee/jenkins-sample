@@ -8,8 +8,10 @@
   <name>SampleProject</name>
   <url>http://maven.apache.org</url>
   
+ 
   <properties>
-  <sonar.organization>ebellee</sonar.organization>
+  <sonar.organization>ebellee</sonar.organization>  
+  <sonar.projectKey>bellee_jenkins-sample</sonar.projectKey>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
   
